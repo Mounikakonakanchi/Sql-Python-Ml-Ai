@@ -1,0 +1,778 @@
+[
+  {
+    "role": "user",
+    "text": "hello how are you"
+  },
+  {
+    "role": "bot",
+    "text": "I'm learning — try asking about mood, cooking, or study."
+  },
+  {
+    "role": "user",
+    "text": "i want to cook something"
+  },
+  {
+    "role": "bot",
+    "text": "I'm learning — try asking about mood, cooking, or study."
+  },
+  {
+    "role": "user",
+    "text": "i am learning python"
+  },
+  {
+    "role": "bot",
+    "text": "I'm learning — try asking about mood, cooking, or study."
+  },
+  {
+    "role": "user",
+    "text": "how my mood is"
+  },
+  {
+    "role": "bot",
+    "text": "Want to log your mood? Use Mood Tracker in the sidebar."
+  },
+  {
+    "role": "user",
+    "text": "do i have any reminders today"
+  },
+  {
+    "role": "bot",
+    "text": "I'm learning — try asking about mood, cooking, or study."
+  },
+  {
+    "role": "user",
+    "text": "reminders"
+  },
+  {
+    "role": "bot",
+    "text": "You don’t have any appointments today 😊"
+  },
+  {
+    "role": "user",
+    "text": "appointment"
+  },
+  {
+    "role": "bot",
+    "text": "You don’t have any appointments today 😊"
+  },
+  {
+    "role": "user",
+    "text": "reminders tomorrow"
+  },
+  {
+    "role": "bot",
+    "text": "You don’t have any appointments today 😊"
+  },
+  {
+    "role": "user",
+    "text": "reminders tomorrow"
+  },
+  {
+    "role": "bot",
+    "text": "You don’t have any appointments today 😊"
+  },
+  {
+    "role": "user",
+    "text": "reminders tomorrow"
+  },
+  {
+    "role": "bot",
+    "text": "You don’t have any appointments today 😊"
+  },
+  {
+    "role": "user",
+    "text": "do i have any reminders today"
+  },
+  {
+    "role": "bot",
+    "text": "Here are your reminders for today:\n10:30 — appointment\n"
+  },
+  {
+    "role": "user",
+    "text": "do i have any reminders tomorrow"
+  },
+  {
+    "role": "bot",
+    "text": "You don't have any appointments tomorrow."
+  },
+  {
+    "role": "user",
+    "text": "how my mood is now"
+  },
+  {
+    "role": "bot",
+    "text": "Your recent mood average is 5.0/10. Keep tracking for better insights!"
+  },
+  {
+    "role": "user",
+    "text": "study"
+  },
+  {
+    "role": "bot",
+    "text": "You've studied 50 minutes recently. Keep it up!"
+  },
+  {
+    "role": "user",
+    "text": "idea"
+  },
+  {
+    "role": "bot",
+    "text": "Here’s a creative suggestion for you: Try a 25-minute focused study session today!"
+  },
+  {
+    "role": "user",
+    "text": "idea"
+  },
+  {
+    "role": "bot",
+    "text": "Here’s a creative suggestion for you: Try a 25-minute focused study session today!"
+  },
+  {
+    "role": "user",
+    "text": "idea"
+  },
+  {
+    "role": "bot",
+    "text": "Here’s a creative suggestion for you: Try a 25-minute focused study session today!"
+  },
+  {
+    "role": "user",
+    "text": "idea"
+  },
+  {
+    "role": "bot",
+    "text": "Here’s a creative suggestion for you: Try a 25-minute focused study session today!"
+  },
+  {
+    "role": "user",
+    "text": "Ingredients: eggs, tomato, onion"
+  },
+  {
+    "role": "bot",
+    "text": "Recipes you can make:\n- Torta (Filipino Omelet) (missing: ground beef, garlic cloves, cilantro, soy sauce)\n- An American Beef Burger (missing: .2 lb beef mince, garlic cloves, to serve, burger buns, the of 2 x little gem lettuce, pickled gherkins thinly, tomato ketchup and american mustard)\n- Baked Stuffed Zucchini By Angie's (missing: bread crumbs, cream, emmentaler cheese, ground meat, parsley, vegetable stock, zucchini)\n- Fresh Herb Omelette (missing: basil, parmesan cheese)\n- Indian-Style Eggs On Toast (missing: bread, turmeric powder, coriander leaves)\n- Mini Ham Omelets (missing: milk, parmesan cheese, bell pepper, prosciutto)\n- Codfish Salad (missing: garlic clove, peppers, peppers, cod fish)\n- Sausage, Spinach, and Quail Egg Breakfast Salad (missing: spinach, red wine vinegar, pepper flakes, baguette)\n- Pork-Stuffed Tofu With Tomato Sauce (missing: fish sauce, garlic, ground pork, tofu)\n- Baked Eggs With Asparagus and Sun Dried Tomatoes (missing: egg whites, thyme, quark, parmesan cheese, spinach)\n"
+  },
+  {
+    "role": "user",
+    "text": "eggs"
+  },
+  {
+    "role": "bot",
+    "text": "I'm learning — try asking about mood, study, reminders, or cooking!"
+  },
+  {
+    "role": "user",
+    "text": "eggs"
+  },
+  {
+    "role": "bot",
+    "text": "I'm learning — try asking about mood, study, reminders, or cooking!"
+  },
+  {
+    "role": "user",
+    "text": "Ingredients: eggs, tomato, onion"
+  },
+  {
+    "role": "bot",
+    "text": "Recipes you can make (Indian cuisine):\n- Torta (Filipino Omelet) (missing: ground beef, garlic cloves, cilantro, soy sauce)\n- An American Beef Burger (missing: .2 lb beef mince, garlic cloves, to serve, burger buns, the of 2 x little gem lettuce, pickled gherkins thinly, tomato ketchup and american mustard)\n- Baked Stuffed Zucchini By Angie's (missing: bread crumbs, cream, emmentaler cheese, ground meat, parsley, vegetable stock, zucchini)\n- Fresh Herb Omelette (missing: basil, parmesan cheese)\n- Indian-Style Eggs On Toast (missing: bread, turmeric powder, coriander leaves)\n- Mini Ham Omelets (missing: milk, parmesan cheese, bell pepper, prosciutto)\n- Codfish Salad (missing: garlic clove, peppers, peppers, cod fish)\n- Sausage, Spinach, and Quail Egg Breakfast Salad (missing: spinach, red wine vinegar, pepper flakes, baguette)\n- Pork-Stuffed Tofu With Tomato Sauce (missing: fish sauce, garlic, ground pork, tofu)\n- Baked Eggs With Asparagus and Sun Dried Tomatoes (missing: egg whites, thyme, quark, parmesan cheese, spinach)\n"
+  },
+  {
+    "role": "user",
+    "text": "Ingredients: eggs, tomato, onion"
+  },
+  {
+    "role": "bot",
+    "text": "Recipes you can make (Indian cuisine):\n- Indian-Style Eggs On Toast (missing: bread, turmeric powder, coriander leaves)\n"
+  },
+  {
+    "role": "user",
+    "text": "appointment"
+  },
+  {
+    "role": "bot",
+    "text": "Here are your reminders today:\n- No Task — ⏰ Unknown\n"
+  },
+  {
+    "role": "user",
+    "text": "appointment"
+  },
+  {
+    "role": "bot",
+    "text": "Here are your reminders for today:\n"
+  },
+  {
+    "role": "user",
+    "text": "appointment"
+  },
+  {
+    "role": "bot",
+    "text": "Here are your reminders for today:\n- doctor appointment — ⏰ 2025-12-16 12:30\n"
+  },
+  {
+    "role": "user",
+    "text": "ingredients: eggs"
+  },
+  {
+    "role": "bot",
+    "text": "I'm learning — try asking about mood, study, reminders, cooking, or creativity!"
+  },
+  {
+    "role": "user",
+    "text": " ingredients: chicken"
+  },
+  {
+    "role": "bot",
+    "text": "I'm learning — try asking about mood, study, reminders, cooking, or creativity!"
+  },
+  {
+    "role": "user",
+    "text": "dashboard for mood"
+  },
+  {
+    "role": "bot",
+    "text": "Try asking about calories, mood, study, reminders, creative ideas, or summary."
+  },
+  {
+    "role": "user",
+    "text": "dashboard for study"
+  },
+  {
+    "role": "bot",
+    "text": "You studied 290 minutes today."
+  },
+  {
+    "role": "user",
+    "text": "dashboard for study"
+  },
+  {
+    "role": "bot",
+    "text": "You studied 290 minutes today."
+  },
+  {
+    "role": "user",
+    "text": "dashboard for mood"
+  },
+  {
+    "role": "bot",
+    "text": "No mood logged today."
+  },
+  {
+    "role": "user",
+    "text": "dashboard for mood"
+  },
+  {
+    "role": "bot",
+    "text": "No mood logged today."
+  },
+  {
+    "role": "user",
+    "text": "dashboard for calories"
+  },
+  {
+    "role": "bot",
+    "text": "✅ You have eaten 1160 calories today. Keep it up!"
+  },
+  {
+    "role": "user",
+    "text": "dashboard for calories"
+  },
+  {
+    "role": "bot",
+    "text": "✅ You have eaten 1160 calories today. Keep it up!"
+  },
+  {
+    "role": "user",
+    "text": "i had egg curyy"
+  },
+  {
+    "role": "bot",
+    "text": "❌ 'egg curyy' not found in recipes."
+  },
+  {
+    "role": "user",
+    "text": "i had egg curry"
+  },
+  {
+    "role": "bot",
+    "text": "🍽 Logged 250 calories for egg curry."
+  },
+  {
+    "role": "user",
+    "text": "today"
+  },
+  {
+    "role": "bot",
+    "text": "📊 **Today Summary**\n- Calories: 0\n- ✅ You have eaten 0 calories today. Keep it up!"
+  },
+  {
+    "role": "user",
+    "text": "reminders"
+  },
+  {
+    "role": "bot",
+    "text": "- doctor appointment at 08:30 AM"
+  },
+  {
+    "role": "user",
+    "text": "reminders"
+  },
+  {
+    "role": "bot",
+    "text": "- doctor appointment at 08:30 AM"
+  },
+  {
+    "role": "user",
+    "text": "dashboard for mood"
+  },
+  {
+    "role": "bot",
+    "text": "Your mood today: 8/10"
+  },
+  {
+    "role": "user",
+    "text": "dashboard for mood"
+  },
+  {
+    "role": "bot",
+    "text": "Your mood today: 9/10"
+  },
+  {
+    "role": "user",
+    "text": "dashboard for mood"
+  },
+  {
+    "role": "bot",
+    "text": "Your mood today: 9/10"
+  },
+  {
+    "role": "user",
+    "text": "dashboard for mood"
+  },
+  {
+    "role": "bot",
+    "text": "Your mood today: 9/10"
+  },
+  {
+    "role": "user",
+    "text": "mood"
+  },
+  {
+    "role": "bot",
+    "text": "Your mood today: 9/10"
+  },
+  {
+    "role": "user",
+    "text": "study"
+  },
+  {
+    "role": "bot",
+    "text": "You studied 50 minutes today."
+  },
+  {
+    "role": "user",
+    "text": "study"
+  },
+  {
+    "role": "bot",
+    "text": "You studied 50 minutes today."
+  },
+  {
+    "role": "user",
+    "text": "dashboard for mood"
+  },
+  {
+    "role": "bot",
+    "text": "Your mood today: 9/10"
+  },
+  {
+    "role": "user",
+    "text": "dashboard for mood"
+  },
+  {
+    "role": "bot",
+    "text": "Your mood today: 9/10"
+  },
+  {
+    "role": "user",
+    "text": "dashboard for study"
+  },
+  {
+    "role": "bot",
+    "text": "You studied 50 minutes today."
+  },
+  {
+    "role": "user",
+    "text": "dashboard for study"
+  },
+  {
+    "role": "bot",
+    "text": "You studied 50 minutes today."
+  },
+  {
+    "role": "user",
+    "text": "dashboard for study"
+  },
+  {
+    "role": "bot",
+    "text": "You studied 50 minutes today."
+  },
+  {
+    "role": "user",
+    "text": "dashboard for study"
+  },
+  {
+    "role": "bot",
+    "text": "You studied 50 minutes today."
+  },
+  {
+    "role": "user",
+    "text": "dashboard for study"
+  },
+  {
+    "role": "bot",
+    "text": "You studied 50 minutes today."
+  },
+  {
+    "role": "user",
+    "text": "dashboard for study"
+  },
+  {
+    "role": "bot",
+    "text": "You studied 50 minutes today."
+  },
+  {
+    "role": "user",
+    "text": "dashboard for study"
+  },
+  {
+    "role": "bot",
+    "text": "You studied 50 minutes today."
+  },
+  {
+    "role": "user",
+    "text": "dashboard for study"
+  },
+  {
+    "role": "bot",
+    "text": "You studied 190 minutes today."
+  },
+  {
+    "role": "user",
+    "text": "mood"
+  },
+  {
+    "role": "bot",
+    "text": "Your mood today: 7/10"
+  },
+  {
+    "role": "user",
+    "text": "mood"
+  },
+  {
+    "role": "bot",
+    "text": "Your mood today: 7/10"
+  },
+  {
+    "role": "user",
+    "text": "dashboard for mood"
+  },
+  {
+    "role": "bot",
+    "text": "Your mood today: 7/10"
+  },
+  {
+    "role": "user",
+    "text": "dashboard for mood"
+  },
+  {
+    "role": "bot",
+    "text": "Your mood today: 7/10"
+  },
+  {
+    "role": "user",
+    "text": "dashboard for mood"
+  },
+  {
+    "role": "bot",
+    "text": "Your mood today: 7/10"
+  },
+  {
+    "role": "user",
+    "text": "dashboard for mood"
+  },
+  {
+    "role": "bot",
+    "text": "Your mood today: 7/10"
+  },
+  {
+    "role": "user",
+    "text": "dashboard for mood"
+  },
+  {
+    "role": "bot",
+    "text": "Your mood today: 7/10"
+  },
+  {
+    "role": "user",
+    "text": "dashboard for mood"
+  },
+  {
+    "role": "bot",
+    "text": "Your mood today: 7/10"
+  },
+  {
+    "role": "user",
+    "text": "dashboard for study"
+  },
+  {
+    "role": "bot",
+    "text": "You studied 270 minutes today."
+  },
+  {
+    "role": "user",
+    "text": "dashboard for study"
+  },
+  {
+    "role": "bot",
+    "text": "You studied 290 minutes today."
+  },
+  {
+    "role": "user",
+    "text": "dashboard for mood"
+  },
+  {
+    "role": "bot",
+    "text": "Your mood today: 6/10"
+  },
+  {
+    "role": "user",
+    "text": "dashboard for mood"
+  },
+  {
+    "role": "bot",
+    "text": "Your mood today: 6/10"
+  },
+  {
+    "role": "user",
+    "text": "dashboard for mood"
+  },
+  {
+    "role": "bot",
+    "text": "Your mood today: 8/10"
+  },
+  {
+    "role": "user",
+    "text": "dashboard for study"
+  },
+  {
+    "role": "bot",
+    "text": "You studied 290 minutes today."
+  },
+  {
+    "role": "user",
+    "text": "dashboard for mood"
+  },
+  {
+    "role": "bot",
+    "text": "Your mood today: 8/10"
+  },
+  {
+    "role": "user",
+    "text": "study"
+  },
+  {
+    "role": "bot",
+    "text": "You studied 290 minutes today."
+  },
+  {
+    "role": "user",
+    "text": "mood"
+  },
+  {
+    "role": "bot",
+    "text": "Your mood today: 8/10"
+  },
+  {
+    "role": "user",
+    "text": "reminders"
+  },
+  {
+    "role": "bot",
+    "text": "- doctor appointment at 08:30 AM"
+  },
+  {
+    "role": "user",
+    "text": "dashboard for calories"
+  },
+  {
+    "role": "bot",
+    "text": "✅ You have eaten 0 calories today. Keep it up!"
+  },
+  {
+    "role": "user",
+    "text": "i had egg curry"
+  },
+  {
+    "role": "bot",
+    "text": "🍽 Logged 250 calories for egg curry."
+  },
+  {
+    "role": "user",
+    "text": "dashboard for calories"
+  },
+  {
+    "role": "bot",
+    "text": "✅ You have eaten 250 calories today. Keep it up!"
+  },
+  {
+    "role": "user",
+    "text": "dashboard for calories"
+  },
+  {
+    "role": "bot",
+    "text": "✅ You have eaten 250 calories today. Keep it up!"
+  },
+  {
+    "role": "user",
+    "text": "dashboard for calories"
+  },
+  {
+    "role": "bot",
+    "text": "✅ You have eaten 250 calories today. Keep it up!"
+  },
+  {
+    "role": "user",
+    "text": "i had Butter Chicken"
+  },
+  {
+    "role": "bot",
+    "text": "🍽 Logged 400 calories for Butter Chicken."
+  },
+  {
+    "role": "user",
+    "text": "dashboard for calories"
+  },
+  {
+    "role": "bot",
+    "text": "✅ You have eaten 650 calories today. Keep it up!"
+  },
+  {
+    "role": "user",
+    "text": "dashboard for calories"
+  },
+  {
+    "role": "bot",
+    "text": "✅ You have eaten 650 calories today. Keep it up!"
+  },
+  {
+    "role": "user",
+    "text": "dashboard for calories"
+  },
+  {
+    "role": "bot",
+    "text": "✅ You have eaten 650 calories today. Keep it up!"
+  },
+  {
+    "role": "user",
+    "text": "dashboard for calories"
+  },
+  {
+    "role": "bot",
+    "text": "✅ You have eaten 650 calories today. Keep it up!"
+  },
+  {
+    "role": "user",
+    "text": "dashboard for calories"
+  },
+  {
+    "role": "bot",
+    "text": "✅ You have eaten 650 calories today. Keep it up!"
+  },
+  {
+    "role": "user",
+    "text": "dashboard for calories"
+  },
+  {
+    "role": "bot",
+    "text": "✅ You have eaten 650 calories today. Keep it up!"
+  },
+  {
+    "role": "user",
+    "text": "i had poha"
+  },
+  {
+    "role": "bot",
+    "text": "🍽 Logged 180 calories for poha."
+  },
+  {
+    "role": "user",
+    "text": "dashboard for calories"
+  },
+  {
+    "role": "bot",
+    "text": "✅ You have eaten 830 calories today. Keep it up!"
+  },
+  {
+    "role": "user",
+    "text": "dashboard for calories"
+  },
+  {
+    "role": "bot",
+    "text": "✅ You have eaten 830 calories today. Keep it up!"
+  },
+  {
+    "role": "user",
+    "text": "dashboard for calories"
+  },
+  {
+    "role": "bot",
+    "text": "✅ You have eaten 830 calories today. Keep it up!"
+  },
+  {
+    "role": "user",
+    "text": "dashboard for mood"
+  },
+  {
+    "role": "bot",
+    "text": "Your mood today: 8/10"
+  },
+  {
+    "role": "user",
+    "text": "dashboard for mood"
+  },
+  {
+    "role": "bot",
+    "text": "Your mood today: 8/10"
+  },
+  {
+    "role": "user",
+    "text": "dashboard for mood"
+  },
+  {
+    "role": "bot",
+    "text": "Your mood today: 9/10"
+  },
+  {
+    "role": "user",
+    "text": "dashboard for mood"
+  },
+  {
+    "role": "bot",
+    "text": "Your mood today: 9/10"
+  },
+  {
+    "role": "user",
+    "text": "dashboard for mood"
+  },
+  {
+    "role": "bot",
+    "text": "Your mood today: 10/10"
+  },
+  {
+    "role": "user",
+    "text": "dashboard for study"
+  },
+  {
+    "role": "bot",
+    "text": "You studied 60 minutes today."
+  }
+]

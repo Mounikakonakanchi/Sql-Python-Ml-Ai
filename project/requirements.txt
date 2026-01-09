@@ -1,0 +1,8 @@
+﻿streamlit
+pandas
+python-dateutil
+schedule
+tinydb
+transformers
+sentence-transformers
+openai

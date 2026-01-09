@@ -1,0 +1,365 @@
+[
+  {
+    "name": "Egg Curry",
+    "ingredients": ["eggs", "onion", "tomato", "turmeric", "coriander", "spices"],
+    "steps": [
+      "Boil eggs and peel them.",
+      "Prepare tomato-onion gravy with turmeric, coriander, and spices.",
+      "Add eggs to the gravy and simmer for 5 minutes.",
+      "Serve hot with rice or roti."
+    ],
+    "calories": 250
+  },
+  {
+    "name": "Masala Omelette",
+    "ingredients": ["eggs", "onion", "tomato", "green chili", "spices"],
+    "steps": [
+      "Beat eggs with chopped onion, tomato, chili, and spices.",
+      "Heat a pan and pour the mixture.",
+      "Cook 3-4 minutes on each side.",
+      "Serve hot with toast or paratha."
+    ],
+    "calories": 200
+  },
+  {
+    "name": "Paneer Butter Masala",
+    "ingredients": ["paneer", "tomato", "onion", "cream", "butter", "spices"],
+    "steps": [
+      "Prepare tomato-onion gravy with butter and spices.",
+      "Add paneer cubes and simmer for 5-10 minutes.",
+      "Add cream before serving.",
+      "Serve hot with naan or roti."
+    ],
+    "calories": 350
+  },
+  {
+    "name": "Aloo Gobi",
+    "ingredients": ["potatoes", "cauliflower", "onion", "tomato", "turmeric", "coriander", "spices"],
+    "steps": [
+      "Chop potatoes and cauliflower.",
+      "Prepare onion-tomato gravy with turmeric and spices.",
+      "Add vegetables and cook until tender.",
+      "Serve hot with roti or rice."
+    ],
+    "calories": 180
+  },
+  {
+    "name": "Masala Dosa",
+    "ingredients": ["rice", "urad dal", "potatoes", "onion", "green chili", "spices"],
+    "steps": [
+      "Soak rice and urad dal overnight and grind to batter.",
+      "Prepare potato filling with onion, chili, and spices.",
+      "Cook dosa on a hot pan and fill with potato masala.",
+      "Serve hot with chutney and sambar."
+    ],
+    "calories": 300
+  },
+  {
+    "name": "Idli",
+    "ingredients": ["rice", "urad dal", "fenugreek seeds", "salt"],
+    "steps": [
+      "Soak rice and urad dal with fenugreek seeds overnight.",
+      "Grind to smooth batter and ferment for 8 hours.",
+      "Pour batter in idli molds and steam for 10-12 minutes.",
+      "Serve hot with chutney and sambar."
+    ],
+    "calories": 100
+  },
+  {
+    "name": "Upma",
+    "ingredients": ["semolina", "onion", "green chili", "ginger", "curry leaves", "spices"],
+    "steps": [
+      "Roast semolina lightly.",
+      "Prepare tempering with onion, chili, ginger, and curry leaves.",
+      "Add water and bring to boil, then add semolina gradually.",
+      "Cook until thick, serve hot."
+    ],
+    "calories": 150
+  },
+  {
+    "name": "Chole Masala",
+    "ingredients": ["chickpeas", "onion", "tomato", "ginger", "garlic", "spices"],
+    "steps": [
+      "Soak chickpeas overnight and boil until soft.",
+      "Prepare onion-tomato gravy with ginger, garlic, and spices.",
+      "Add chickpeas and simmer for 10-15 minutes.",
+      "Serve hot with bhature or rice."
+    ],
+    "calories": 300
+  },
+  {
+    "name": "Jeera Rice",
+    "ingredients": ["rice", "cumin seeds", "ghee", "salt"],
+    "steps": [
+      "Wash and soak rice for 20 minutes.",
+      "Heat ghee and add cumin seeds.",
+      "Add rice and water, cook until done.",
+      "Serve with curry or dal."
+    ],
+    "calories": 200
+  },
+  {
+    "name": "Pav Bhaji",
+    "ingredients": ["potatoes", "tomatoes", "peas", "capsicum", "pav bhaji masala", "butter"],
+    "steps": [
+      "Boil and mash vegetables.",
+      "Prepare onion-tomato gravy with pav bhaji masala.",
+      "Mix mashed vegetables into gravy and simmer.",
+      "Serve hot with buttered pav."
+    ],
+    "calories": 350
+  },
+  {
+    "name": "Rava Kesari",
+    "ingredients": ["semolina", "sugar", "ghee", "saffron", "water"],
+    "steps": [
+      "Roast semolina in ghee until fragrant.",
+      "Boil water with sugar and saffron.",
+      "Add roasted semolina gradually and cook until thick.",
+      "Serve warm."
+    ],
+    "calories": 250
+  },
+  {
+    "name": "Besan Ladoo",
+    "ingredients": ["gram flour", "ghee", "sugar", "cardamom powder"],
+    "steps": [
+      "Roast gram flour in ghee until aromatic.",
+      "Mix with sugar and cardamom powder.",
+      "Shape into small balls while warm.",
+      "Allow to cool and serve."
+    ],
+    "calories": 120
+  },
+  {
+    "name": "Dhokla",
+    "ingredients": ["gram flour", "yogurt", "ginger-green chili paste", "baking soda", "spices"],
+    "steps": [
+      "Prepare batter with gram flour, yogurt, and spices.",
+      "Steam batter for 15-20 minutes.",
+      "Tempering with mustard seeds and curry leaves.",
+      "Serve with chutney."
+    ],
+    "calories": 180
+  },
+  {
+    "name": "Pesarattu",
+    "ingredients": ["green moong dal", "ginger", "green chili", "cumin seeds", "salt"],
+    "steps": [
+      "Soak moong dal and grind with ginger and chili.",
+      "Spread batter on hot pan and cook both sides.",
+      "Serve with chutney."
+    ],
+    "calories": 150
+  },
+  {
+    "name": "Poha",
+    "ingredients": ["flattened rice", "onion", "green chili", "mustard seeds", "turmeric", "curry leaves"],
+    "steps": [
+      "Rinse poha and drain.",
+      "Prepare tempering with onion, chili, mustard seeds, turmeric, and curry leaves.",
+      "Mix poha with tempering and cook for 2-3 minutes.",
+      "Serve hot with lemon."
+    ],
+    "calories": 180
+  },
+  {
+    "name": "Aloo Paratha",
+    "ingredients": ["wheat flour", "potatoes", "green chili", "coriander", "ghee"],
+    "steps": [
+      "Prepare dough with wheat flour.",
+      "Mash potatoes with chili and coriander.",
+      "Roll dough, fill with potato mixture, and cook on tawa with ghee.",
+      "Serve hot with curd or pickle."
+    ],
+    "calories": 250
+  },
+  {
+    "name": "Methi Thepla",
+    "ingredients": ["wheat flour", "fenugreek leaves", "spices", "yogurt"],
+    "steps": [
+      "Prepare dough with wheat flour, methi leaves, spices, and yogurt.",
+      "Roll into thin flatbreads and cook on hot tawa.",
+      "Serve hot with chutney."
+    ],
+    "calories": 180
+  },
+  {
+    "name": "Vegetable Upma",
+    "ingredients": ["semolina", "onion", "carrot", "peas", "curry leaves", "spices"],
+    "steps": [
+      "Roast semolina lightly.",
+      "Prepare tempering with onion, curry leaves, and spices.",
+      "Add chopped vegetables and water, then semolina.",
+      "Cook until thick and serve hot."
+    ],
+    "calories": 200
+  },
+  {
+    "name": "Gajar Halwa",
+    "ingredients": ["carrot", "milk", "sugar", "ghee", "cardamom"],
+    "steps": [
+      "Grate carrots and cook in milk until soft.",
+      "Add sugar, ghee, and cardamom, and cook until dry.",
+      "Serve warm."
+    ],
+    "calories": 300
+  },
+  {
+    "name": "Kachori",
+    "ingredients": ["flour", "moong dal", "spices", "oil"],
+    "steps": [
+      "Prepare dough and filling with moong dal and spices.",
+      "Stuff dough and deep fry until golden.",
+      "Serve hot."
+    ],
+    "calories": 250
+  },
+  {
+    "name": "Litti Chokha",
+    "ingredients": ["wheat flour", "sattu", "spices", "potatoes", "tomatoes"],
+    "steps": [
+      "Prepare wheat dough and sattu filling with spices.",
+      "Bake or fry litti, and serve with chokha made of mashed potatoes and tomatoes.",
+      "Serve hot."
+    ],
+    "calories": 350
+  },
+  {
+    "name": "Rasgulla",
+    "ingredients": ["chhena", "sugar", "water", "cardamom"],
+    "steps": [
+      "Prepare chhena balls.",
+      "Boil in sugar syrup until soft and spongy.",
+      "Serve chilled."
+    ],
+    "calories": 150
+  },
+  {
+    "name": "Rava Idli",
+    "ingredients": ["semolina", "yogurt", "baking soda", "spices"],
+    "steps": [
+      "Prepare batter with semolina and yogurt.",
+      "Steam in idli molds for 10-12 minutes.",
+      "Serve hot with chutney."
+    ],
+    "calories": 120
+  },
+  {
+    "name": "Puri Bhaji",
+    "ingredients": ["wheat flour", "potatoes", "onion", "turmeric", "spices", "oil"],
+    "steps": [
+      "Prepare wheat dough and roll into small puris.",
+      "Deep fry puris until golden brown.",
+      "Prepare potato bhaji with onion, turmeric, and spices.",
+      "Serve together."
+    ],
+    "calories": 300
+  },
+  {
+    "name": "Chicken Curry",
+    "ingredients": ["chicken", "onion", "tomato", "ginger", "garlic", "spices"],
+    "steps": [
+      "Prepare onion-tomato gravy with ginger, garlic, and spices.",
+      "Add chicken and cook until tender.",
+      "Serve hot with rice or roti."
+    ],
+    "calories": 350
+  },
+  {
+    "name": "Butter Chicken",
+    "ingredients": ["chicken", "tomato", "cream", "butter", "spices"],
+    "steps": [
+      "Cook chicken pieces until tender.",
+      "Prepare tomato cream gravy with butter and spices.",
+      "Add chicken and simmer for 10 minutes.",
+      "Serve hot with naan or rice."
+    ],
+    "calories": 400
+  },
+  {
+    "name": "Dal Tadka",
+    "ingredients": ["toor dal", "onion", "tomato", "garlic", "spices", "ghee"],
+    "steps": [
+      "Boil dal until soft.",
+      "Prepare tadka with ghee, garlic, onion, and spices.",
+      "Add tadka to dal and simmer for 5 minutes.",
+      "Serve hot with rice."
+    ],
+    "calories": 250
+  },
+  {
+    "name": "Rajma Masala",
+    "ingredients": ["kidney beans", "onion", "tomato", "ginger", "garlic", "spices"],
+    "steps": [
+      "Soak rajma overnight and cook until soft.",
+      "Prepare onion-tomato gravy with spices.",
+      "Add rajma and simmer for 10 minutes.",
+      "Serve hot with rice."
+    ],
+    "calories": 300
+  },
+  {
+    "name": "Palak Paneer",
+    "ingredients": ["spinach", "paneer", "onion", "tomato", "cream", "spices"],
+    "steps": [
+      "Blanch spinach and grind to puree.",
+      "Prepare onion-tomato gravy with spices.",
+      "Add spinach puree and paneer, simmer for 5-10 minutes.",
+      "Serve hot with roti or rice."
+    ],
+    "calories": 320
+  },
+  {
+    "name": "Vegetable Biryani",
+    "ingredients": ["rice", "mixed vegetables", "yogurt", "spices", "ghee"],
+    "steps": [
+      "Cook rice and vegetables separately.",
+      "Layer rice and vegetables with yogurt and spices.",
+      "Cook on low heat for 20 minutes.",
+      "Serve hot with raita."
+    ],
+    "calories": 400
+  },
+  {
+    "name": "Gulab Jamun",
+    "ingredients": ["khoya", "flour", "sugar", "water", "cardamom", "ghee"],
+    "steps": [
+      "Make small balls of khoya and flour.",
+      "Deep fry in ghee until golden.",
+      "Soak in sugar syrup flavored with cardamom.",
+      "Serve warm or cold."
+    ],
+    "calories": 200
+  },
+  {
+    "name": "Methi Malpua",
+    "ingredients": ["flour", "fenugreek leaves", "sugar", "milk", "ghee"],
+    "steps": [
+      "Prepare batter with flour, milk, fenugreek leaves, and sugar.",
+      "Fry small pancakes in ghee until golden brown.",
+      "Serve with syrup or condensed milk."
+    ],
+    "calories": 250
+  },
+  {
+    "name": "Vegetable Sandwich",
+    "ingredients": ["bread", "tomato", "cucumber", "onion", "butter", "cheese", "spices"],
+    "steps": [
+      "Layer vegetables and cheese between slices of bread.",
+      "Toast sandwich until golden.",
+      "Serve hot."
+    ],
+    "calories": 200
+  },
+  {
+    "name": "Masala Chai",
+    "ingredients": ["tea leaves", "milk", "water", "spices", "sugar"],
+    "steps": [
+      "Boil water with tea leaves and spices.",
+      "Add milk and sugar, simmer for 2-3 minutes.",
+      "Strain and serve hot."
+    ],
+    "calories": 50
+  }
+]

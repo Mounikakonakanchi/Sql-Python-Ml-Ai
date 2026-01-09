@@ -1,0 +1,77 @@
+[
+  {
+    "recipe": "Chicken Curry",
+    "calories": 350,
+    "date": "2025-12-16"
+  },
+  {
+    "recipe": "Poha",
+    "calories": 180,
+    "date": "2025-12-17"
+  },
+  {
+    "recipe": "Poha",
+    "calories": 180,
+    "date": "2025-12-17"
+  },
+  {
+    "meal": "chicken",
+    "calories": 0,
+    "date": "2025-12-17"
+  },
+  {
+    "meal": "chicken",
+    "calories": 0,
+    "date": "2025-12-17"
+  },
+  {
+    "meal": "butter",
+    "calories": 0,
+    "date": "2025-12-17"
+  },
+  {
+    "meal": "butter",
+    "calories": 0,
+    "date": "2025-12-17"
+  },
+  {
+    "meal": "Butter",
+    "calories": 0,
+    "date": "2025-12-17"
+  },
+  {
+    "meal": "Butter",
+    "calories": 0,
+    "date": "2025-12-17"
+  },
+  {
+    "meal": "Butter Chicken",
+    "calories": 400,
+    "date": "2025-12-17"
+  },
+  {
+    "meal": "Butter Chicken",
+    "calories": 400,
+    "date": "2025-12-17"
+  },
+  {
+    "meal": "egg curry",
+    "calories": 250,
+    "date": "2025-12-17"
+  },
+  {
+    "recipe": "egg curry",
+    "calories": 250,
+    "date": "2025-12-19"
+  },
+  {
+    "recipe": "Butter Chicken",
+    "calories": 400,
+    "date": "2025-12-19"
+  },
+  {
+    "recipe": "poha",
+    "calories": 180,
+    "date": "2025-12-19"
+  }
+]
